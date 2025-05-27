@@ -1,0 +1,6 @@
+question-maker/.env
+tegram-bot/.env
+.vscode
+.idea
+question-maker/.idea
+question-maker/.venv
