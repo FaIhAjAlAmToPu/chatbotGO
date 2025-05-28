@@ -1,1 +1,2 @@
-deployed in https://huggingface.co/spaces/faihaj/qna_generator_bot
+deployed in hugginface space as qna_generator_bot
+Its **Private**
