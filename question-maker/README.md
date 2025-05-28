@@ -1,0 +1,1 @@
+deployed in https://huggingface.co/spaces/faihaj/qna_generator_bot
