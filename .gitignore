@@ -1,5 +1,6 @@
 question-maker/.env
 tegram-bot/.env
+tegram-bot/go.sum
 .vscode
 .idea
 question-maker/.idea
