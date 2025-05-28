@@ -5,7 +5,7 @@ This repository contains two Telegram bots deployed on Hugging Face Spaces:
 - **Joke Generator Bot**: A simple bot that delivers random jokes to entertain users.
 - **Question Generator Bot**: An advanced bot that generates customized quiz questions based on user-specified subjects, topics, and preferences, with weighted question formats and logging.
 
-Last one is accessible at: [telegram](t.me/QuestionGenAIbot)
+Last one is accessible at: [telegram](https://t.me/QuestionGenAIbot)
 
 ## Overview
 
